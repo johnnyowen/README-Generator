@@ -1,6 +1,7 @@
 # README-Generator
 
 This is a node.js app that takes user input and builds a markdown README file for them to edit and deploy to a personal or work repository.
+
 [![License](https://img.shields.io/badge/License-MIT-blueviolet.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
