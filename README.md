@@ -20,5 +20,4 @@ N/A
 ## License 
 Refer to the license in the repo.
 
-https://github.com/johnnyowen/README-Generator
 https://watch.screencastify.com/v/SsnQ8yCdH6QQyzYfs7GK
