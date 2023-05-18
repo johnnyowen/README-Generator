@@ -1,6 +1,6 @@
 # README-Generator
 
-This is a node.js app that takes user input and builds a markdown README
+This is a node.js app that takes user input and builds a markdown README file for them to edit and deploy to a personal or work repository.
 
 ## Description
 
