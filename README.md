@@ -23,7 +23,7 @@ Refer to the license in the repo.
 https://watch.screencastify.com/v/SsnQ8yCdH6QQyzYfs7GK
 ## Questions
 
-If there is any questions feel free to contact me through [Email](mailto:j.owen1993@outlook.com) or [GitHub](https://github.com/johnnyowen)
+If there is any questions feel free to contact me through [GitHub](https://github.com/johnnyowen)
 
 ## Demo
 
